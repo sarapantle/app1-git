@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>  
 
-<widget xmins ="http://www.w3.org/ns/widgets"
+<widget xmlns ="http://www.w3.org/ns/widgets"
   xmlns:gap ="http://phonegap.com/com/ns/1.0"
   id ="com.phonegap.app1"
-   vercion ="1.0.0">
+   version ="1.0.0">
    
    <name>app1-2019 Datos del Dispositivo </name>
    
